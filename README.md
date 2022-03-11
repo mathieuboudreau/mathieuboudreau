@@ -23,11 +23,11 @@
 <img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-
+<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/1421029/157916108-cabd0127-97d5-42bd-8c8e-d9da1363950c.png" />
+<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/1421029/157916218-2a05b1e5-c15d-4321-8d1f-7fe3bfcfbf4c.png" />
 
 <br />
 <br />
-
 
 ![Mathieu's GitHub stats](https://github-readme-stats.vercel.app/api?username=mathieuboudreau&count_private=true&show_icons=true&hide_border=true)
 
