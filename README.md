@@ -29,9 +29,7 @@
 <br />
 
 
-![Tommy's github stats](https://github-readme-stats.vercel.app/api?username=mathieuboudreau&count_private=true&show_icons=true&hide_border=true)
+![Mathieu's GitHub stats](https://github-readme-stats.vercel.app/api?username=mathieuboudreau&count_private=true&show_icons=true&hide_border=true)
 
 [twitter]: https://twitter.com/_mattboud
 [linkedin]: https://www.linkedin.com/in/mathieujboudreau
-
-
