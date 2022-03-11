@@ -1,9 +1,9 @@
 ### Hi there, I'm Mathieu 👋
 
 ## I'm an MRI physicist
-- 🎓 I’m currently 
-- 🧠 Part of the [NeuroPoly Lab][neuropolyweb]
-- 📘 Science communication editor for MRM Highlights.
+- 🎓 I’m currently a research fellow at the Montreal Heart Institute
+- 🧠 Part of the [NeuroPoly Lab][https://neuro.polymtl.ca] at Polytechnique Montreal
+- 📘 Science communication editor for [MRM Highlights].
 - 🤔 I’m looking for help with ...
 - 🔭 I’m currently working on ...
 - 💬 Ask me about the best way to backup you computer.
