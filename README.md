@@ -1,7 +1,8 @@
 ### Hi there, I'm Mathieu 👋
 
 ## I'm an MRI physicist
-- 🎓 I’m currently a research fellow at the Montreal Heart Institute.
+- 🎓 I have a PhD in biomedical engineering from McGill University.
+- 💼 I’m currently a research fellow at the Montreal Heart Institute.
 - 🧠 Part of the [NeuroPoly Lab](https://neuro.polymtl.ca) at Polytechnique Montreal.
 - 📘 Science communication editor for [MRM Highlights](https://blog.ismrm.org/category/highlights/).
 - 🔭 I’m currently working on [qMRLab](https://github.com/qmrlab/qmrlab) and [AxonDeepSeg](https://github.com/axondeepseg/axondeepseg).
