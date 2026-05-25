@@ -4,7 +4,7 @@
 - 🎓 I have a PhD in biomedical engineering from McGill University.
 - 💼 I’m currently a research fellow at the Montreal Heart Institute.
 - 🧠 Part of the [NeuroPoly Lab](https://neuro.polymtl.ca) at Polytechnique Montreal.
-- 📘 Science communication editor for [MRM Highlights](https://blog.ismrm.org/category/highlights/).
+- 📘 Previously a science communication editor for [MRM Highlights](https://blog.ismrm.org/category/highlights/).
 - 🔭 I’m currently working on [qMRLab](https://github.com/qmrlab/qmrlab) and [AxonDeepSeg](https://github.com/axondeepseg/axondeepseg).
 - 💬 Ask me about the best way to backup you computer.
 
