@@ -1,32 +1,20 @@
-### Hi there, I'm Mathieu 👋
+# Mathieu Boudreau
 
-## I'm an MRI physicist
-- 🎓 I have a PhD in biomedical engineering from McGill University.
-- 💼 I’m currently a research fellow at the Montreal Heart Institute.
-- 🧠 Part of the [NeuroPoly Lab](https://neuro.polymtl.ca) at Polytechnique Montreal.
-- 📘 Previously a science communication editor for [MRM Highlights](https://blog.ismrm.org/category/highlights/).
-- 🔭 I’m currently working on [qMRLab](https://github.com/qmrlab/qmrlab) and [AxonDeepSeg](https://github.com/axondeepseg/axondeepseg).
-- 💬 Ask me about the best way to backup you computer.
+MRI physicist and research software developer at [NeuroPoly](https://neuro.polymtl.ca) (Polytechnique Montréal). I build open-source tools for quantitative MRI and work on making neuroimaging research reproducible.
 
-### Connect with me:
+## What I work on
 
-[<img align="left" alt="tommy | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+- **[qMRLab](https://github.com/qMRLab/qMRLab)** — quantitative MRI analysis software, under one umbrella ([JOSS, 2020](https://joss.theoj.org/papers/10.21105/joss.02343))
+- **[NeuroLibre](https://neurolibre.org)** — a platform for publishing interactive, reproducible research objects
+- **[ISMRM T1 mapping reproducibility challenge](https://github.com/rrsg2020/analysis)** — led an international crowdsourced study on T1 mapping ([MRM, 2024](https://onlinelibrary.wiley.com/doi/10.1002/mrm.30111))
+- **[AxonDeepSeg](https://github.com/axondeepseg/axondeepseg)** — axon/myelin segmentation using deep learning
 
-<br />
+Formerly Lead Editor of [MRM Highlights](https://blog.ismrm.org/category/highlights/) and Deputy Editor for *Magnetic Resonance in Medicine*.
 
-### Languages and Tools:
+## Education
 
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="Matlab" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png" />
-<img align="left" alt="Jupyter" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" />
-<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />
-<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/1421029/157916108-cabd0127-97d5-42bd-8c8e-d9da1363950c.png" />
-<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/1421029/157916218-2a05b1e5-c15d-4321-8d1f-7fe3bfcfbf4c.png" />
+PhD in Biomedical Engineering, McGill · MSc in Physics, Western · BSc in Physics, Université de Moncton
 
-<br />
-<br />
+💬 Ask me about the best way to back up your computer.
 
-[linkedin]: https://www.linkedin.com/in/mathieujboudreau
+1,850+ citations · h-index 16 · [Google Scholar](https://scholar.google.ca/citations?user=Yswk730AAAAJ) · [LinkedIn](https://www.linkedin.com/in/mathieujboudreau)
