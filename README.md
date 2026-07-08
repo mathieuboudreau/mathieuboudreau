@@ -1,11 +1,11 @@
 # Mathieu Boudreau
 
-MRI physicist and research software developer at [NeuroPoly](https://neuro.polymtl.ca) (Polytechnique Montréal). I build open-source tools for quantitative MRI and work on making research reproducible.
+Research software developer and MRI physicist at [NeuroPoly](https://neuro.polymtl.ca) (Polytechnique Montréal). I build open-source tools for quantitative MRI and work on making research reproducible.
 
 ## What I work on
 
 - **[MR Studio](https://mrstudio.app)** — interactive editor for publication-quality MRI/NMR pulse sequence diagrams, with SVG/PNG export
-- **[AxonDeepSeg](https://github.com/axondeepseg/axondeepseg)** — axon/myelin segmentation using deep learning; core contributor and maintainer
+- **[AxonDeepSeg](https://github.com/axondeepseg/axondeepseg)** — axon/myelin segmentation using deep learning; I maintain the software and releases around the models (169K+ downloads, 127★)
 - **[qMRLab](https://github.com/qMRLab/qMRLab)** — quantitative MRI analysis software; core developer and maintainer ([JOSS, 2020](https://joss.theoj.org/papers/10.21105/joss.02343))
 - **[ISMRM T1 mapping reproducibility challenge](https://github.com/rrsg2020/analysis)** — led an international crowdsourced study on T1 mapping ([MRM, 2024](https://onlinelibrary.wiley.com/doi/10.1002/mrm.30111))
 
